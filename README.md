@@ -31,4 +31,4 @@ A simple Java program that calculates student marks, determines grades, checks P
 
 ## 🤝 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/kathirvel-gk/
+- 🔗 LinkedIn: [Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
